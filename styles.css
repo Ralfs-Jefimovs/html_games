@@ -21,3 +21,9 @@
 .apaksa {
     list-style-type:circle;
 }
+
+#quote {
+    margin-left:10px;
+    font-family:Consolas, "Courier New", monospace;
+    font-size:12px;
+}
