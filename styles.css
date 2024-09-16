@@ -1,0 +1,23 @@
+.container {
+    position: relative;
+    display: inline-block;
+}
+
+.container img {
+    display:block;
+    width:100%;
+    height: auto;
+}
+
+.overlay_text {
+    position: absolute;
+    top: 38%; 
+    left: 11%; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    text-align: start;
+}
+
+.apaksa {
+    list-style-type:circle;
+}
